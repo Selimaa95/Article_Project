@@ -1,0 +1,32 @@
+﻿@model PostVM
+@{
+    ViewData["Title"] = "Article";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- #region Content -->
+<section class="bounce animated article-clean">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
+                <div class="intro">
+                    <h1 class="text-center" style="font-family: Cairo, sans-serif;">@Model.Title</h1>
+                    <p class="text-center"><span class="by">by</span> <a href="#">@Model.FullName</a><span class="date">@Model.Date.Value.ToShortDateString()</span></p><img class="img-fluid" src="~/UpLoadedFiles/Images/@Model.Image">
+                </div>
+                <div class="text">
+                    <p class="text-end" style="font-family: Cairo, sans-serif;"> @Model.Description </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-aos="zoom-in" class="social-icons">
+        <h3 style="font-family: Cairo, sans-serif;">شارك المقالة</h3>
+        <a href="@Model.Author?.Twitter"> <i class="icon ion-social-twitter"></i> </a>
+        <a href="@Model.Author?.FaceBook"> <i class="icon ion-social-facebook"></i> </a>
+        <a href="@Model.Author?.Instagram"> <i class="icon ion-social-instagram"></i> </a>
+    </div>
+</section>
+<!-- #endregion -->
+
+

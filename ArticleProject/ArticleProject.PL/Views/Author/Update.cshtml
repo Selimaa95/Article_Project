@@ -1,0 +1,146 @@
+﻿@using Microsoft.AspNetCore.Authorization;
+@inject IAuthorizationService service
+@model AuthorVM
+@{
+    ViewData["Title"] = "تعديل";
+    var admin = service.AuthorizeAsync(User, "Admin");
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+<link rel="stylesheet" href="~/Profile.css">
+
+<h1>تعديل  بيانات الناشر </h1>
+
+<div class="container">
+    <form asp-action="Update" class="form-group" enctype="multipart/form-data">
+        <div class="row gutters">
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="Image" />
+
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <div class="account-settings">
+                            <div class="user-profile">
+                                <div class="user-avatar">
+                                    <img src="~/UpLoadedFiles/Images/@Model.Image" alt="@Model.Title">
+                                </div>
+                                <h5 class="user-name">@Model.UserName</h5>
+                            </div>
+                            <div class="about">
+                                <h5>الوصف</h5>
+                                <p> @Model.Bio </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <div class="row gutters">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <h6 class="mb-2 text-primary">البيانات الشخصيه</h6>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="FullName">الاسم بالكامل</label>
+                                    <input type="text" class="form-control" asp-for="FullName">
+                                    <span asp-validation-for="FullName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="Title">العنوان</label>
+                                    <input type="text" class="form-control" asp-for="Title">
+                                    <span asp-validation-for="Title" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="UserName">اسم المستخدم</label>
+                                    <input type="text" class="form-control" asp-for="UserName">
+                                    <span asp-validation-for="UserName" class="text-danger"></span>
+                                </div>
+                            </div>                     
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="UserId">رقم المستخدم</label>
+                                    <input asp-for="UserId" class="form-control" type="text">
+                                    <span asp-validation-for="UserId" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="ImageFile">الصورة</label>
+                                    <input type="file" class="form-control" asp-for="ImageFile">
+                                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group">
+                                    <label asp-for="Bio">الوصف</label>
+                                    <textarea asp-for="Bio" class="form-control" rows="1"></textarea>
+                                    <span asp-validation-for="Bio" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row gutters">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <h6 class="mt-3 mb-2 text-primary">وسائل التواصل</h6>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                                <div class="form-group">
+                                    <label asp-for="FaceBook">فيس بوك</label>
+                                    <input type="text" class="form-control" asp-for="FaceBook">
+                                    <span asp-validation-for="FaceBook" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                                <div class="form-group">
+                                    <label asp-for="Instagram">انستجرام</label>
+                                    <input type="text" class="form-control" asp-for="Instagram">
+                                    <span asp-validation-for="Instagram" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                                <div class="form-group">
+                                    <label asp-for="Twitter">تويتر</label>
+                                    <input type="text" class="form-control" asp-for="Twitter">
+                                    <span asp-validation-for="Twitter" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+                        <div class="row gutters">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                <div class="text-right">
+                                    <input type="submit" value="حفظ" class="btn btn-primary" />
+                                    @if (admin.Result.Succeeded)
+                                    {
+                                        <button asp-action="Index" asp-controller="Author" class="btn btn-primary">الرجوع الى قائمه الناشرون</button>
+                                    }
+                                    else
+                                    {
+                                        <button asp-action="Index" asp-controller="Admin" class="btn btn-primary">الرجوع</button>
+                                    }
+
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</div>
+<br />
+
+@section ValidationScripts
+{
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

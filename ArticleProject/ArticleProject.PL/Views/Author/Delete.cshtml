@@ -1,0 +1,75 @@
+﻿@model AuthorVM
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1 class="text-danger">Delete</h1>
+
+<h3 class="text-danger">هل انت متاكد من حذف هذا المستخدم لا يمكن اعادة البيانات</h3>
+
+<h4>معلومات المستخدم</h4>
+<hr />
+<div class="row">
+    <div>
+        <form asp-action="Delete" class="form-group">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="Image" />
+
+            <br />
+            <div class="row ">
+                <div class="col-md-1">
+                    <img src="~/UpLoadedFiles/Images/@Model.Image" alt="Not Found" />
+                </div>
+                <div class="col-md-5">
+                    <label asp-for="UserName">اسم المستخدم</label>
+                    <input type="text" asp-for="UserName" class="form-control" readonly />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="UserId">رقم المستخدم</label>
+                    <input type="text" asp-for="UserId" class="form-control" readonly />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label asp-for="FullName">الاسم الكامل</label>
+                    <input type="text" asp-for="FullName" class="form-control" readonly />
+                </div>
+                <div class="col">
+                    <label asp-for="Title">العنوان</label>
+                    <input type="text" asp-for="Title" class="form-control" readonly />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <label asp-for="Bio">الوصف</label>
+                    <input type="text" asp-for="Bio" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label asp-for="FaceBook">فيس بوك</label>
+                    <input type="text" asp-for="FaceBook" class="form-control" readonly />
+                </div>
+                <div class="col">
+                    <label asp-for="Instagram">انستجرام</label>
+                    <input type="text" asp-for="Instagram" class="form-control" readonly />
+                </div>
+                <div class="col">
+                    <label asp-for="Twitter">تويتر</label>
+                    <input type="text" asp-for="Twitter" class="form-control" readonly />
+                </div>
+            </div>
+            <br />
+            <div class="row" style="position: absolute; left: 50%; right: 50%">
+                <div class="col">
+                    <input type="submit" value="حذف" class="btn btn-primary" readonly />
+                </div>
+            </div>
+            <br />
+        </form>
+    </div>
+
+</div>
+<br />

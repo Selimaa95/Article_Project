@@ -1,0 +1,44 @@
+﻿@model IEnumerable<AuthorVM>
+@{
+    ViewData["Title"] = "AllUsers";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+    <div class="container">
+        <section class="team-boxed">
+            <div class="container">
+                <div class="intro">
+                    <h2 class="text-center" style="font-family: Cairo, sans-serif;">ناشرونا</h2>
+                </div>
+                <div class="row people">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-6 col-lg-4 item" data-aos="zoom-out">
+                            <div class="box">
+                                <img src="~/UpLoadedFiles/Images/@item.Image" alt="Not Found" width="320" height="320">
+                                <h3 class="name">@item.FullName</h3>
+                                <p class="title">@item.Title</p>
+                                <div class="social">
+                                    <a href="@item.FaceBook" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                                    <a href="@item.Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                                    <a href="@item.Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+            <nav>
+                <ul class="pagination">
+                    <li class="page-item"><a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">4</a></li>
+                    <li class="page-item"><a class="page-link" href="#">5</a></li>
+                    <li class="page-item"><a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                </ul>
+            </nav>
+        </section>
+    </div>
+

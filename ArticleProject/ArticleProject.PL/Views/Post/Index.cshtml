@@ -1,0 +1,66 @@
+﻿@model IEnumerable<PostVM>
+@{
+    ViewData["Title"] = "المشاركات";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>بيانات المشاركات</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">مشاركه جديدة</a>
+</p>
+
+@*<br />
+<form asp-action="Search" class="form-group">
+
+    <input type="submit" value="بحث" class="=btn btn-primary" />
+    <input type="search" name="searchItem" class="search-field" />
+
+</form>*@
+
+<table class="table table-striped hover">
+
+    <thead>
+        <tr>
+            <th>اسم المستخدم</th>
+            <th>الاسم الكامل</th>
+            <th>الصنف</th>
+            <th>العنوان</th>
+            <th>الصورة</th>
+            <th>تاريخ الاضافه</th>
+            <th>التحكم</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.UserName</td>
+                <td>@item.FullName</td>     
+                <td>@item.Category.Name</td>
+                <td>@item.Title</td>
+
+                <td>
+                    <img src="~/UpLoadedFiles/Images/@item.Image" alt="Not Found" width="50" height="50"/>
+                </td>               
+                
+                <td> @item.Date</td>
+                
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">تعديل</a>
+                    &nbsp;&nbsp;
+                    <a asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+                    &nbsp;&nbsp;
+                    <a asp-action="Details" asp-route-id="@item.Id">تفاصيل</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+
+
+

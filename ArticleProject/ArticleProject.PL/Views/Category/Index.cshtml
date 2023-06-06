@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CategoryVM>
+@{
+    ViewData["Title"] = "قائمه الاصناف";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>الاصناف</h1>
+
+  <p>
+      <a class="btn btn-primary"  asp-action="Create">اضافه صنف جديد</a>
+  </p>
+
+<br />
+<form asp-action="Search"  class="form-group"> 
+
+    <input type="submit" value="بحث" class="=btn btn-primary" />
+    <input type="search" name="searchItem" class="search-field" />
+
+</form>
+
+<table class="table table-striped hover">
+
+    <thead>
+        <tr>
+            <th> التسلسل </th>
+            <th> الاسم </th>       
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+	     {
+		 
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">تعديل</a>
+                    &nbsp;&nbsp;
+                    <a asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+                </td>
+
+            </tr>
+    	 }
+    </tbody>
+
+</table>
+
+

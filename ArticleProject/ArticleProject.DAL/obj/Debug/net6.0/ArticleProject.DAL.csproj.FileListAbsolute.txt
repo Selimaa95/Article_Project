@@ -1,0 +1,14 @@
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\bin\Debug\net6.0\ArticleProject.DAL.deps.json
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\bin\Debug\net6.0\ArticleProject.DAL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\bin\Debug\net6.0\ArticleProject.DAL.pdb
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.csproj.AssemblyReference.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.AssemblyInfoInputs.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.AssemblyInfo.cs
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.csproj.CoreCompileInputs.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\refint\ArticleProject.DAL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.pdb
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ref\ArticleProject.DAL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\bin\Debug\net6.0\ArticleProject.DAL.runtimeconfig.json
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.DAL\obj\Debug\net6.0\ArticleProject.DAL.genruntimeconfig.cache

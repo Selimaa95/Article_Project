@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AuthorVM>
+@{
+    ViewData["Title"] = "الناشرون";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+<h1> بيانات الناشرون</h1>
+<br />
+
+<form asp-action="Search" class="form-group">
+
+    <input type="submit" value="بحث" class="=btn btn-primary" />
+    <input type="search" name="searchItem" class="search-field" />
+
+</form>
+
+<br />
+<table class="table table-striped  hover">
+    <thead>
+        <tr>
+            <th>الصورة</th>
+            <th>الاسم الكامل</th>
+            <th>اسم المستخدم</th>
+            <th>العنوان</th>
+            <th>التحكم</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+         {
+            <tr>
+                <td>
+                    <img src="~/UpLoadedFiles/Images/@item.Image" alt="Not Found" class="rounded-circle" width="50" height="50" />
+                </td>
+                <td>@item.FullName</td>
+                <td>@item.UserName</td>
+                <td>@item.Title</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">تعديل</a>
+                    &nbsp;&nbsp;
+                    <a asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+                </td>
+            </tr>
+
+         }
+    </tbody>
+</table>

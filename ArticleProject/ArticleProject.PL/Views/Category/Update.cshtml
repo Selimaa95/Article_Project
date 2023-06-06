@@ -1,0 +1,40 @@
+﻿@model CategoryVM
+@{
+    ViewData["Title"] = "تعديل";
+}
+
+<h1>تعديل الصنف</h1>
+
+<h4>الصنف</h4>
+
+<div class="row">   
+    <div class="col-md-4">
+        <form asp-action="Update" class="form-group">
+            <div asp-validation-summary="All"></div>
+            <input type="hidden" asp-for="Id"/>
+            <div class="form-group">
+                <label asp-for="Name">الاسم</label>
+                <input type="text" class="form-control" asp-for="Name" />
+                <span asp-validation-for="Name"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="حفظ"  class="btn btn-primary"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<br />
+
+<div >
+    <a asp-action="Index">الرجوع الى قائمه الاصناف</a>
+</div>
+
+@section ValidationScripts
+{
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

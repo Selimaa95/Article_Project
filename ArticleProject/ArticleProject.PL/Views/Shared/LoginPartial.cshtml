@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+<ul class="navbar-nav mx-auto">
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item"><a class="nav-link" href="#" style="font-family: Cairo, sans-serif;">@User.Identity.Name</a></li>
+        <li class="nav-item"></li>
+        <li class="nav-item">
+            <form asp-controller="Account" asp-action="LogOut" class="form-group">
+                <button type="submit" class="nav-link btn btn-link text-dark">تسجيل الخروج</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="Registration" style="font-family: Cairo, sans-serif;">اشتراك</a></li>
+        <li class="nav-item"></li>
+        <li class="nav-item"><a class="nav-link" asp-controller="Account" asp-action="Login" style="font-family: Cairo, sans-serif;">تسجيل الدخول</a></li>
+    }
+</ul>

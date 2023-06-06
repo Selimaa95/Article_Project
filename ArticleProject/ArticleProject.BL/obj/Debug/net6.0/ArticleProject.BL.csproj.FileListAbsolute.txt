@@ -1,0 +1,15 @@
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\bin\Debug\net6.0\ArticleProject.BL.deps.json
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\bin\Debug\net6.0\ArticleProject.BL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\bin\Debug\net6.0\ArticleProject.BL.pdb
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.csproj.AssemblyReference.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.AssemblyInfoInputs.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.AssemblyInfo.cs
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.csproj.CoreCompileInputs.cache
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\refint\ArticleProject.BL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.pdb
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ref\ArticleProject.BL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\bin\Debug\net6.0\ArticleProject.DAL.dll
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\bin\Debug\net6.0\ArticleProject.DAL.pdb
+E:\Web Development\Other\Projects\Article\ArticleProject\ArticleProject.BL\obj\Debug\net6.0\ArticleProject.BL.csproj.CopyComplete

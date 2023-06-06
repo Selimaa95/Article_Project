@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticleProject.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ArticleProject.PL.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.css",
+      "PackagePath": "staticwebassets\\Account\\adminlte.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\Account\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.js",
+      "PackagePath": "staticwebassets\\Account\\adminlte.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\Account\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Account\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Account\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Account\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\all.css",
+      "PackagePath": "staticwebassets\\Account\\all.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\all.min.css",
+      "PackagePath": "staticwebassets\\Account\\all.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\Account\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Account\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Account\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\Profile.css",
+      "PackagePath": "staticwebassets\\Profile.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\1609e796-b0cf-4127-8e5e-26e5d88cf3e4-_1680x1050 (1).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\1609e796-b0cf-4127-8e5e-26e5d88cf3e4-_1680x1050 (1).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\1a52125e-4cc1-4c08-9c7a-df5a579e7926-memory-sizes-to-yotta.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\1a52125e-4cc1-4c08-9c7a-df5a579e7926-memory-sizes-to-yotta.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\2250e1fb-8e8b-4998-b5a4-23fa845eeb02-Folder.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\2250e1fb-8e8b-4998-b5a4-23fa845eeb02-Folder.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\22be7291-3446-434d-95ff-d6784fca57f9-_1680x1050 (17).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\22be7291-3446-434d-95ff-d6784fca57f9-_1680x1050 (17).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\294bb8d7-6467-4e02-9c32-0ac3b0224949-images (2).jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\294bb8d7-6467-4e02-9c32-0ac3b0224949-images (2).jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\4272e8f3-0112-4773-a1fc-09f18d6654db-Folder.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\4272e8f3-0112-4773-a1fc-09f18d6654db-Folder.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\4b00bff5-04de-4900-acad-e0fcd38d2df5-_1680x1050 (39).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\4b00bff5-04de-4900-acad-e0fcd38d2df5-_1680x1050 (39).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\4d540efa-9033-4aed-805f-9da91c44b36a-Space0.PNG",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\4d540efa-9033-4aed-805f-9da91c44b36a-Space0.PNG"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\5b8c18d3-c048-4af5-b566-76d8b69e4364-Test1.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\5b8c18d3-c048-4af5-b566-76d8b69e4364-Test1.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\61e1e9d1-a92d-41ba-a106-5435882be37a-Test.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\61e1e9d1-a92d-41ba-a106-5435882be37a-Test.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\65f6ce5b-ae96-47ec-83f4-b9da04c3a970-Test1.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\65f6ce5b-ae96-47ec-83f4-b9da04c3a970-Test1.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\6ac6fa6f-4f63-4007-a7fb-5095da613824-Album1.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\6ac6fa6f-4f63-4007-a7fb-5095da613824-Album1.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\709ac0d3-21d5-4f01-9807-3ee97e67936f-_1680x1050 (44).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\709ac0d3-21d5-4f01-9807-3ee97e67936f-_1680x1050 (44).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\73150ac7-8ac0-4171-b4b6-427cfc88ebb9-_1680x1050 (31).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\73150ac7-8ac0-4171-b4b6-427cfc88ebb9-_1680x1050 (31).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\755600ae-3087-49a4-9cd8-ce35af68201a-_1680x1050 (15).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\755600ae-3087-49a4-9cd8-ce35af68201a-_1680x1050 (15).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\7cac4da1-6049-4b8c-88ab-aede948f0a02-_1680x1050 (34).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\7cac4da1-6049-4b8c-88ab-aede948f0a02-_1680x1050 (34).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\81a777f7-fdfb-42b2-b955-6f75541626ed-images (5).jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\81a777f7-fdfb-42b2-b955-6f75541626ed-images (5).jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\8dbbde13-865b-4ebe-83be-08430960d7b0-_1680x1050 (36).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\8dbbde13-865b-4ebe-83be-08430960d7b0-_1680x1050 (36).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\9e900669-138d-47eb-a65c-dc262f80d44e-Test.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\9e900669-138d-47eb-a65c-dc262f80d44e-Test.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\a0c58765-0e2a-4d9c-b78c-b619a99fff1e-images (20).png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\a0c58765-0e2a-4d9c-b78c-b619a99fff1e-images (20).png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\a8c5386b-6093-478a-816a-628b78992e46-Test1.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\a8c5386b-6093-478a-816a-628b78992e46-Test1.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\b50df81f-83d7-430c-8b24-8a299b590ac0-Folder.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\b50df81f-83d7-430c-8b24-8a299b590ac0-Folder.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\c4b15677-47fd-4104-a6a9-6923272c779f-20140508_182615.jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\c4b15677-47fd-4104-a6a9-6923272c779f-20140508_182615.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\cba90bd4-4b32-4c47-a652-4762569d3bd6-Test.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\cba90bd4-4b32-4c47-a652-4762569d3bd6-Test.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\cbbbc61c-3185-457a-aaa0-5eb5fad5d2eb-2.jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\cbbbc61c-3185-457a-aaa0-5eb5fad5d2eb-2.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\ce4eeee4-df90-466d-b8b9-175496553076-images (4).png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\ce4eeee4-df90-466d-b8b9-175496553076-images (4).png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\d2d2a73e-fd48-47c3-a10f-76698e460df8-Test.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\d2d2a73e-fd48-47c3-a10f-76698e460df8-Test.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\d56bc6c1-2269-43f7-b9fc-5d4411478e87-Folder.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\d56bc6c1-2269-43f7-b9fc-5d4411478e87-Folder.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\d8e7a584-8069-4d1b-8aa7-e7da069bf1b7-user.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\d8e7a584-8069-4d1b-8aa7-e7da069bf1b7-user.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\d940beef-0074-4f64-b6ad-f126c59395c1-Test.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\d940beef-0074-4f64-b6ad-f126c59395c1-Test.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\e2965aa7-aa9e-4ef6-98f3-9f7cd298b9e8-images.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\e2965aa7-aa9e-4ef6-98f3-9f7cd298b9e8-images.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\e5386dc0-2553-42ac-9b15-acb622df7c25-download.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\e5386dc0-2553-42ac-9b15-acb622df7c25-download.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\e64cc7ad-ca74-4939-b931-40810bf53bf5-_1680x1050 (2).jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\e64cc7ad-ca74-4939-b931-40810bf53bf5-_1680x1050 (2).jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\f600df10-face-4b0f-93ac-9cd7566bdf6b-images.jpeg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\f600df10-face-4b0f-93ac-9cd7566bdf6b-images.jpeg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\fa2bb83c-4b90-4a31-82f3-88f162a34b25-user.png",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\fa2bb83c-4b90-4a31-82f3-88f162a34b25-user.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\UpLoadedFiles\\Images\\selima.jpg",
+      "PackagePath": "staticwebassets\\UpLoadedFiles\\Images\\selima.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Animation-Cards-1.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards-1.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Animation-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Article-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Article-Cards.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Article-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Article-Clean.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Article-List.css",
+      "PackagePath": "staticwebassets\\css\\Article-List.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Black-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Black-Navbar.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Login-Form-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Clean.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Login-Form-Dark.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Dark.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Navbar---Apple-1.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple-1.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Navbar---Apple.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Navigation-with-Button.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Button.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Navigation-with-Search.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Search.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\News-Cards.css",
+      "PackagePath": "staticwebassets\\css\\News-Cards.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Responsive-UI-Card-02.css",
+      "PackagePath": "staticwebassets\\css\\Responsive-UI-Card-02.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Right-Sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Right-Sidebar.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\SIdebar-Responsive-2-1.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2-1.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\SIdebar-Responsive-2.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Sidebar-Menu-1.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu-1.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Sidebar-Menu.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Sidebar-right-opening.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-right-opening.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Social-Icons.css",
+      "PackagePath": "staticwebassets\\css\\Social-Icons.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Soft-UI-Aside-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Soft-UI-Aside-Navbar.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Studious-sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Studious-sidebar.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Team-Boxed.css",
+      "PackagePath": "staticwebassets\\css\\Team-Boxed.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css",
+      "PackagePath": "staticwebassets\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\dh-card-image-left-dark.css",
+      "PackagePath": "staticwebassets\\css\\dh-card-image-left-dark.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\dh-navbar-inverse.css",
+      "PackagePath": "staticwebassets\\css\\dh-navbar-inverse.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\Cairo-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Cairo-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\Cairo-VariableFont_slnt,wght.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Cairo-VariableFont_slnt,wght.ttf"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\Screenshot 2021-08-18 014017.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2021-08-18 014017.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\beach.jpg",
+      "PackagePath": "staticwebassets\\img\\beach.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\building.jpg",
+      "PackagePath": "staticwebassets\\img\\building.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\desk.jpg",
+      "PackagePath": "staticwebassets\\img\\desk.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\expansion.png",
+      "PackagePath": "staticwebassets\\img\\expansion.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\loft.jpg",
+      "PackagePath": "staticwebassets\\img\\loft.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\paleta-sensores.jpg",
+      "PackagePath": "staticwebassets\\img\\paleta-sensores.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\product-aeon-feature.jpg",
+      "PackagePath": "staticwebassets\\img\\product-aeon-feature.jpg"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\img\\profile.png",
+      "PackagePath": "staticwebassets\\img\\profile.png"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Navbar---Apple.js",
+      "PackagePath": "staticwebassets\\js\\Navbar---Apple.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Right-Sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Right-Sidebar.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Sidebar-Menu.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-Menu.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Sidebar-right-opening.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-right-opening.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\Studious-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Studious-sidebar.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\bs-init-1.js",
+      "PackagePath": "staticwebassets\\js\\bs-init-1.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\bs-init.js",
+      "PackagePath": "staticwebassets\\js\\bs-init.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Web Development\\Other\\Projects\\Article\\ArticleProject\\ArticleProject.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ArticleProject.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ArticleProject.PL.props",
+      "PackagePath": "build\\ArticleProject.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ArticleProject.PL.props",
+      "PackagePath": "buildMultiTargeting\\ArticleProject.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ArticleProject.PL.props",
+      "PackagePath": "buildTransitive\\ArticleProject.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

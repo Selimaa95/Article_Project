@@ -1,0 +1,37 @@
+﻿@model CategoryVM
+@{
+    ViewData["Title"] = "حذف";
+}
+
+<h1>حذف الصنف</h1>
+
+<h3>هل انت متاكد من حذف الصنف ؟ تذكر لا يمكن استعاده البيانات</h3>
+
+<h4>معلومات الصنف</h4>
+<hr />
+
+<div class="row">   
+    <div class="col-md-4">
+        <form asp-action="Delete" class="form-group">
+
+            <input type="hidden" asp-for="Id"/>
+            <div class="form-group">
+                <label asp-for="Name">الاسم</label>
+                <input type="text" class="form-control" asp-for="Name" readonly />
+                <span asp-validation-for="Name"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="حذف"  class="btn btn-primary"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<br />
+
+<div >
+    <a asp-action="Index">الرجوع الى قائمه الاصناف</a>
+</div>
+
